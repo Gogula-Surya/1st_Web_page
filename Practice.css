@@ -1,0 +1,29 @@
+#body1{
+    /* background:conic-gradient(black,blue,orange);  */
+    background-color: rgb(75, 74, 74);
+}
+#fie{
+    background-color: lightgray;
+    box-shadow: 5px 5px 10px black;
+}
+#file1{
+    width: 400px;
+    height: 190px;
+    background-color: bisque;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px ;
+}
+#mar{
+    color: red;
+}
+.tr1{
+    box-shadow: 5px 5px 5px red;
+}
+.tr2{
+    box-shadow: 5px 5px 6pt ;
+    border: none; 
+}
+#butt
+{
+    box-shadow: 5px 3px 7px yellowgreen;
+}
